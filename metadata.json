@@ -1,0 +1,6 @@
+{
+  "name": "Mini Mart Evolved",
+  "description": "A 3D store-management tycoon game with 20 themed marts, 48 products, 22 machines, contract-net staff AI, procedural toy-diorama graphics, and ASMR spatial audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
